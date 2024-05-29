@@ -1,4 +1,4 @@
-# Arduino-Projects
+# Radar Sonar using Processing3
 
 In this project, I tried to model the object detection radar on a conceptual scale.
 This project uses Arduino platform as controller,
